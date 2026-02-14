@@ -1,1 +1,2 @@
-requirement.txt
+streamlit
+reportlab
