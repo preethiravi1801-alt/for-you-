@@ -18,7 +18,6 @@ st.markdown(
     "<h3 style='text-align:center;'>You are special, loved, and appreciated ❤️</h3>",
     unsafe_allow_html=True
 )
- name = st.text_input("Enter your name ❤️")
 st.write("")
 
 # Button interaction
@@ -63,3 +62,4 @@ st.markdown(
     "<p style='text-align:center; color:gray;'>Made with ❤️ </p>",
     unsafe_allow_html=True
 )
+
